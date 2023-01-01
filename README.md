@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadil Sandaruwan</h1>
 <h3 align="center">A Student of Institute of Technology University of Moratuwa</h3>
-img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadil97&label=Profile%20views&color=0e75b6&style=flat" alt="nadil97" /> </p>
 
