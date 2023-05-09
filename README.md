@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Fuel App](https://github.com/Fuel-Station)
 
-- 🌱 I’m currently learning **Flutter, Deep Learning**
+- 🌱 I’m currently learning **Flutter, Game Developpment, React NodeJs**
 
 - 💬 Ask me about **Flutter**
 
