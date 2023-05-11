@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadil Sandaruwan</h1>
+
+<h3 align="center">Work at MechSIT (PVT) LTD</h3>
+<h4 align="center">Flutter Developer ,Game Developer</h4>
 <h3 align="center">A Student of Institute of Technology University of Moratuwa</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
